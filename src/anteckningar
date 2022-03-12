@@ -1,0 +1,20 @@
+  // computed: {
+  //   showStatus() {
+  //     return this.todos.filter((todo) => {
+  //       switch (this.status) {
+  //         case "uncompleted":
+  //           return !todo.done;
+  //         case "completed":
+  //           return todo.done;
+  //         default:
+  //           return true;
+  //       }
+  //     });
+  //   },
+  // },
+
+      // filteredTodos2() {
+    //   this.prio
+    //     ? this.todos.filter((p) => p.priority === this.prio)
+    //     : this.todos;
+    // },

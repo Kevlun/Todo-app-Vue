@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+}
+p {
+  min-width: fit-content;
+}
